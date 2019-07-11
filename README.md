@@ -1,4 +1,4 @@
-# _Linked List_
+# _Singly Linked List_
 
 #### _C# implementation of Linked List_
 
